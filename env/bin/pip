@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/mnt/c/TODO SOBRE MISHKA/ALL_DEVELOPER/APRENDE PROGRAMAR/FastApi/mi_video_api/env/bin/python3" "$0" "$@"
+'''exec' "/mnt/c/TODO SOBRE MISHKA/ALL_DEVELOPER/APRENDE PROGRAMAR/FastApi/mi_video_api/env/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
