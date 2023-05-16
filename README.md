@@ -33,7 +33,7 @@ cd mi_video_api
 3. Create a virtual environment (optional but recommended):
 
 ```sh
-python -m venv venv
+python -m venv env
 ```
 
 4. Activate the virtual environment:
@@ -47,7 +47,7 @@ venv\Scripts\activate
 For macOS/Linux:
 
 ```sh
-source venv/bin/activate
+source env/bin/activate
 ```
 
 5. Install the required dependencies:
